@@ -1,5 +1,6 @@
 
 Weather Forecast Project
+
 This Weather Forecast Project is a web application that allows users to check the current weather conditions and the upcoming weather forecast for a specific location. The application is built using HTML, CSS, and JavaScript, and it utilizes the OpenWeather API to fetch real-time weather data.
 
 Features
